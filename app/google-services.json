@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "813793471244",
+    "firebase_url": "https://facebooklogin-7b874.firebaseio.com",
+    "project_id": "facebooklogin-7b874",
+    "storage_bucket": "facebooklogin-7b874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813793471244:android:bcc795876314e324",
+        "android_client_info": {
+          "package_name": "com.logicshore.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813793471244-741sgr9knre7qvahavji1thaje950n8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logicshore.facebooklogin",
+            "certificate_hash": "c670044735cd2b6c96d0357f5dcf1129448f30d5"
+          }
+        },
+        {
+          "client_id": "813793471244-q4kbvdu6iss6ae6qp1j45v2sc7dqs9r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo_rrpXTCCcjNlL-QL2xK48SPCi8YkRAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813793471244-q4kbvdu6iss6ae6qp1j45v2sc7dqs9r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
